@@ -1,0 +1,22 @@
+
+Apr 06, 2023 17:41:09.689 NEW SESSION
+Apr 06, 2023 17:41:09.689 [11228:2672:0406/174109.685:ERROR:device_event_log_impl.cc(222)] [17:41:09.685] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:41:09.690 [11228:2672:0406/174109.688:ERROR:device_event_log_impl.cc(222)] [17:41:09.688] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:41:09.690 [11228:2672:0406/174109.688:ERROR:device_event_log_impl.cc(222)] [17:41:09.688] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:41:10.22 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 17:43:27.965 [5344:3784:0406/174327.964:ERROR:device_event_log_impl.cc(222)] [17:43:27.964] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:43:27.967 [5344:3784:0406/174327.967:ERROR:device_event_log_impl.cc(222)] [17:43:27.966] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:43:27.967 [5344:3784:0406/174327.967:ERROR:device_event_log_impl.cc(222)] [17:43:27.966] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:43:28.150 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 17:43:48.908 [5108:2096:0406/174348.908:ERROR:device_event_log_impl.cc(222)] [17:43:48.908] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:43:48.910 [5108:2096:0406/174348.910:ERROR:device_event_log_impl.cc(222)] [17:43:48.910] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:43:48.910 [5108:2096:0406/174348.910:ERROR:device_event_log_impl.cc(222)] [17:43:48.910] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:43:49.282 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 17:44:35.990 [5164:8488:0406/174435.990:ERROR:device_event_log_impl.cc(222)] [17:44:35.990] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:44:35.992 [5164:8488:0406/174435.992:ERROR:device_event_log_impl.cc(222)] [17:44:35.992] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:44:35.992 [5164:8488:0406/174435.992:ERROR:device_event_log_impl.cc(222)] [17:44:35.992] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:44:36.124 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 17:48:57.975 [4532:9184:0406/174857.975:ERROR:device_event_log_impl.cc(222)] [17:48:57.975] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:48:57.977 [4532:9184:0406/174857.977:ERROR:device_event_log_impl.cc(222)] [17:48:57.977] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:48:57.978 [4532:9184:0406/174857.977:ERROR:device_event_log_impl.cc(222)] [17:48:57.977] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 17:48:58.209 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
