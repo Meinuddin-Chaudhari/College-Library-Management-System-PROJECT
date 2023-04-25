@@ -49,16 +49,19 @@ Deployment: Apache Tomcat Server
 version control: GitHub
  
 Homepage
+![image](https://user-images.githubusercontent.com/59445853/234266925-0b8a5353-e5dc-4aef-b245-ce378bed933b.png)
 
 
 
 
 
 Librarian Registration
+![image](https://user-images.githubusercontent.com/59445853/234267062-e0067575-eb7d-415e-a9f9-638ae7357490.png)
 
  
 Student Registration
 
+![image](https://user-images.githubusercontent.com/59445853/234267090-e83761c4-4d4f-45e7-8c43-3d7cd7f7ceed.png)
 
 
  
